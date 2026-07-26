@@ -1,0 +1,82 @@
+.certificates__swiper {
+  padding: 10px 4px 50px !important;
+}
+
+.cert-card {
+  padding: 30px 26px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.cert-card__icon {
+  width: 46px;
+  height: 46px;
+  border-radius: var(--radius-md);
+  background: var(--gradient-accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  color: #fff;
+  margin-bottom: 18px;
+}
+
+.cert-card__title {
+  font-size: 1.05rem;
+  margin-bottom: 8px;
+}
+
+.cert-card__issuer {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-bottom: 4px;
+}
+
+.cert-card__year {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-bottom: 18px;
+}
+
+.cert-card__link {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--color-accent);
+  padding-top: 14px;
+  border-top: 1px solid var(--border-color);
+}
+
+/* Swiper navigation/pagination theme overrides */
+.certificates__swiper .swiper-button-next,
+.certificates__swiper .swiper-button-prev {
+  color: var(--color-accent);
+  width: 34px;
+  height: 34px;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  backdrop-filter: blur(10px);
+}
+
+.certificates__swiper .swiper-button-next::after,
+.certificates__swiper .swiper-button-prev::after {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.certificates__swiper .swiper-pagination-bullet {
+  background: var(--text-muted);
+  opacity: 0.5;
+}
+
+.certificates__swiper .swiper-pagination-bullet-active {
+  background: var(--color-accent);
+  opacity: 1;
+}
