@@ -89,13 +89,13 @@ src/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/john-portfolio.git
+git clone https://github.com/your-username/SumanPortfolio.git
 ```
 
 ### Navigate into the project
 
 ```bash
-cd john-portfolio
+cd SumanPortfolio
 ```
 
 ### Install dependencies
@@ -167,13 +167,6 @@ Create an EmailJS account and replace the following placeholders inside:
 ```
 src/components/Contact/Contact.jsx
 ```
-
-```javascript
-const EMAILJS_SERVICE_ID = "YOUR_SERVICE_ID";
-const EMAILJS_TEMPLATE_ID = "YOUR_TEMPLATE_ID";
-const EMAILJS_PUBLIC_KEY = "YOUR_PUBLIC_KEY";
-```
-
 ---
 
 ## 📄 Resume Setup
@@ -280,18 +273,7 @@ git push origin feature-name
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 👨‍💻 Author
 
-**John**
-
-Built with ❤️ using **React**, **Vite**, and **Framer Motion**.
-
----
-
-⭐ If you like this project, don't forget to **Star** the repository!
+**Suman Mitra**
