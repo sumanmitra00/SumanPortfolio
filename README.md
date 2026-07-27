@@ -1,7 +1,7 @@
 
 # 🚀 Suman Mitra —  Portfolio
 
-A modern, fully responsive, and production-ready personal portfolio website built with **React + Vite**. Designed with smooth animations, clean UI, SEO optimization, and an elegant user experience to showcase your skills, projects, achievements, and resume.
+A modern, fully responsive, and production-ready personal portfolio website built with **React + Vite**. Designed with smooth animations, clean UI, SEO optimization, and an elegant user experience to showcase skills, Projects, Education, Achievements, Certifications and Resume.
 
 ---
 
