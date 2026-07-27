@@ -3,11 +3,6 @@
 
 A modern, fully responsive, and production-ready personal portfolio website built with **React + Vite**. Designed with smooth animations, clean UI, SEO optimization, and an elegant user experience to showcase your skills, projects, achievements, and resume.
 
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
-![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?logo=vite)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
-
 ---
 
 ## ✨ Features
@@ -229,21 +224,6 @@ Optimized for:
 - Clean Component Architecture
 
 ---
-
-## 📚 Dependencies
-
-```json
-React
-Vite
-Framer Motion
-React Router DOM
-React Icons
-Typed.js
-Swiper.js
-EmailJS
-React Helmet Async
-```
-
 ---
 
 ## 🤝 Contributing
@@ -277,3 +257,5 @@ git push origin feature-name
 ## 👨‍💻 Author
 
 **Suman Mitra**
+
+Live Demo - suman-portfolio-weld.vercel.app
