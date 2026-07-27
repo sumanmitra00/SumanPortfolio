@@ -1,5 +1,5 @@
 
-# 🚀 John — Premium Portfolio
+# 🚀 Suman Mitra — Premium Portfolio
 
 A modern, fully responsive, and production-ready personal portfolio website built with **React + Vite**. Designed with smooth animations, clean UI, SEO optimization, and an elegant user experience to showcase your skills, projects, achievements, and resume.
 
